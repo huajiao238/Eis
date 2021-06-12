@@ -1,0 +1,7 @@
+display current-configuration:查看配置信息
+display current-configuration interface:查看端口配置信息
+display interface brief:查看端口状态
+display mac-address:查看Mac地址表信息
+display ip routing-table:查看路由表信息
+display nihao:查看错误命令
+display ip routing-status:查看路由信息

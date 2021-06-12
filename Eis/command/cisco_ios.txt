@@ -1,0 +1,16 @@
+do show running-config:查看所有配置
+do show version:查看设备版本信息
+do show processes cpu:查看即时流程与相关CPU利用率统计
+do show processes memory:查看即时流程与内存相关信息
+do show environment temperatures:查看设备各插槽温度
+do show environment cooling all:查看风扇状态、速度与温度
+do show environment alarm:查看设备环境告警信息
+do show power:查看电源数量、各板卡消耗功率
+do show module:查看设备模块/引擎板信息
+do show inventory:查看设备模块名称、SN号
+do show logging:查看设备日志信息
+do show ip interface brief:查看设备接口信息
+do show interfaces:查看设备接口
+do show debug:查看debug信息
+do show clock detail:查看设备时钟信息
+do show ip route summary:查看路由统计信息
